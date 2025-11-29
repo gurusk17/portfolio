@@ -73044,7 +73044,7 @@ q=A.at7(A.at(51,255,255,255),1)
 p=t.af
 r=A.Hb(A.b([A.mc(j,A.ajH(A.m2(18),A.agC("assets/guru.jpeg",B.jI,j,j),B.cF),B.y,j,j,new A.eC(j,j,q,s,j,new A.mO(B.jE,B.fD,B.co,r,j,j),B.bh),j,120,j,j,120),B.IY,A.akC(A.afI(A.b([B.OI,B.wh,B.OF,B.wf,A.auO(B.B6,B.OE,k.gX5(),A.auP(j,j,A.at(64,255,255,255),j,j,j,5,j,j,j,j,j,j,B.As,j,new A.c4(A.m2(12),B.p),j,j,j,j))],p),B.cK,j,B.bo,B.bO),1)],p),B.cK,j,B.bo,B.bO)
 s=A.li("About Me",j,j,j,B.fj,j,j)
-q=A.li("I am a passionate Flutter Developer from Thoothukudi, India with 2+ years of experience building high-quality mobile apps using Flutter, Dart, Firebase, GetX and MVC architecture. I have published 5+ apps in Google Playstore and App Store used by 1.5 lakh+ users.Our Client is ROCA - Parryware",j,j,j,B.Nn,j,j)
+q=A.li("I am a passionate Flutter Developer from Thoothukudi, India with 2+ years of experience building high-quality mobile apps using Flutter, Dart, Firebase, GetX and MVC architecture. I have published 5+ apps in Google Playstore and App Store used by 1.5 lakh+ users.Our Client is ROCA - Parryware.",j,j,j,B.Nn,j,j)
 o=A.li("Skills",j,j,j,B.fj,j,j)
 n=A.b([],p)
 for(m=["Flutter","Dart","Firebase","REST API","GetX","Provider","Hive","JAVA","MySQL","GitHub","PYTHON","Postman","JSON","Publish Apps"],l=0;l<14;++l)n.push(new A.Cv(A.li(m[l],j,j,j,B.MK,j,j),B.i,j))
